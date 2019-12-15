@@ -1,0 +1,20 @@
+{
+    "env": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-harrish-webapp-env-220438-authRole",
+            "UnauthRoleArn": "arn:aws:iam::534288293305:role/amplify-harrish-webapp-env-220438-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::534288293305:role/amplify-harrish-webapp-env-220438-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-harrish-webapp-env-220438-deployment",
+            "UnauthRoleName": "amplify-harrish-webapp-env-220438-unauthRole",
+            "StackName": "amplify-harrish-webapp-env-220438",
+            "StackId": "arn:aws:cloudformation:us-east-1:534288293305:stack/amplify-harrish-webapp-env-220438/a2ded2d0-1e8f-11ea-abdc-12cf4a8c2bc2",
+            "AmplifyAppId": "d2ez5x14cjqf65"
+        },
+        "categories": {
+            "auth": {
+                "harrishwebapp2899beb8": {}
+            }
+        }
+    }
+}

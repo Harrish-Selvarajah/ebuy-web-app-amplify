@@ -1,0 +1,34 @@
+{
+    "paths": [
+        {
+            "name": "/products",
+            "lambdaFunction": "harrishwebapp30c0c2d1",
+            "privacy": {
+                "open": true
+            }
+        }
+    ],
+    "resourceName": "api30d5fed1",
+    "apiName": "api30d5fed1",
+    "functionArns": [
+        {
+            "lambdaFunction": "harrishwebapp30c0c2d1"
+        }
+    ],
+    "privacy": {
+        "auth": 0,
+        "unauth": 0,
+        "authRoleName": "amplify-harrish-webapp-env-220438-authRole",
+        "unAuthRoleName": "amplify-harrish-webapp-env-220438-unauthRole"
+    },
+    "dependsOn": [
+        {
+            "category": "function",
+            "resourceName": "harrishwebapp30c0c2d1",
+            "attributes": [
+                "Name",
+                "Arn"
+            ]
+        }
+    ]
+}
